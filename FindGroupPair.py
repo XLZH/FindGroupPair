@@ -1,5 +1,11 @@
 #!/usr/bin/env python
 
+'''Used to find the group-pair for the long-read(about 1Kb)
+   Author: XiaolongZhang
+   Date: 2016-07-05
+   Last modify: 2017-03-24
+'''
+
 import os
 import re
 import time
